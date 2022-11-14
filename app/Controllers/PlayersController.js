@@ -25,11 +25,6 @@ function _drawActiveFruit() {
 // }
 
 
-
-
-
-
-
 export class PlayersController {
   constructor() {
     _drawPlayers()
